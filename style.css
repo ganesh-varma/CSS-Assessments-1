@@ -1,0 +1,27 @@
+.para{
+    text-decoration-line:line-through;
+    font-weight: bold;
+     
+}
+.css{
+    background-color: yellow;
+    font-weight: bold;
+}
+.underline{
+    text-decoration-line: underline;
+    font-style: italic;
+}
+.href{
+    text-decoration-line:none;
+    color: red;
+    background-color: yellow;
+}
+.linespace{
+    letter-spacing: 6px;
+    color: brown;
+    line-height: 25px;
+}
+.yellow{
+    background-color: yellow;
+    font-weight:bolder;
+}
